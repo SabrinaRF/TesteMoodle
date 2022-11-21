@@ -1,0 +1,15 @@
+{
+  "url":"https://gmlunardi.pro.br/moodlerp2/login/index.php/",
+  "matriculaCorreta" : "2210100416",
+  "senhaCorreta" : "2210100416",
+  "matriculaErrada": "0000000000",
+  "senhaErrada": "0000000000",
+  "matriculaZero": " ",
+  "senhaZero": " ",
+  "resultado1": "Bem-vindo(a) de volta, SABRINA!",
+  "resultado2": "Nome de usuário ou senha errados. Por favor tente outra vez.",
+  "resultado3": "Nome de usuário ou senha errados. Por favor tente outra vez.",
+  "resultado4": "Nome de usuário ou senha errados. Por favor tente outra vez.",
+  "resultado5": "Nome de usuário ou senha errados. Por favor tente outra vez.",
+  "resultado6": "Visitantes não podem acessar este curso. Por favor faça login."
+}

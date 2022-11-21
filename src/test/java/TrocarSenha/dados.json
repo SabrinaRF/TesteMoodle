@@ -1,0 +1,15 @@
+{
+  "url":"https://gmlunardi.pro.br/moodlerp2/login/index.php/",
+  "matricula": "2210100416",
+  "resultado1": "Se o nome de usuário ou o email estiverem corretos, um email deve ter sido enviado a você",
+  "email": "sabrinafernandes.aluno@unipampa.edu.br",
+  "resultado2": "Se o nome de usuário ou o email estiverem corretos, um email deve ter sido enviado a você",
+  "matriculaIncorreta": "1",
+  "emailIncorreto": "sabrinarfernandes.sfgmail.com",
+  "resultado3": "Insira a identificação de usuário ou endereço de e-mail",
+  "resultado4": "Endereço de email inválido",
+  "matriculaVazia": "",
+  "resultado5": "Insira a identificação de usuário ou endereço de e-mail",
+  "emailVazia": "",
+  "resultado6": "Insira a identificação de usuário ou endereço de e-mail"
+}
