@@ -55,7 +55,7 @@ public class TestTrocarLinguagem {
     }
 
     @Test
-    @DisplayName("Validar troca de linguagem  do English para o Prtuguês")
+    @DisplayName("Validar troca de linguagem  do English para o Português")
     public void testValidarTrocaLingEnPt() {
 
         driver.get (jsonObject.get("url").toString());
